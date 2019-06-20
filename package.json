@@ -1,0 +1,24 @@
+{
+  "name": "nodejscrud",
+  "version": "1.0.0",
+  "description": "Processing on basic Crud Operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalrajDoddi/NodeJSCrud.git"
+  },
+  "author": "Balraj Doddi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalrajDoddi/NodeJSCrud/issues"
+  },
+  "homepage": "https://github.com/BalrajDoddi/NodeJSCrud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.0"
+  }
+}
